@@ -31,10 +31,10 @@
   'forcex': =1 -> Enforce download of corrupt file from ZIP archive (CRC32 mismatch)
 
 TODO:
- Broken zip files not handled properly (decode on server fully to detect)
- Show CRC
+ Show CRC when browsing archives
  Unicode support in dirs and ZIP
 */
+
 
 
 /* Config section */
